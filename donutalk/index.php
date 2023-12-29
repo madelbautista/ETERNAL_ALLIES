@@ -22,7 +22,7 @@
         }
 
         body {
-            background-image: url('user/uploads/welcome.svg'); 
+            background-image: url('user/uploads/welcome.png'); 
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;
